@@ -1,0 +1,1 @@
+I built simple IOT based home automation system using using ESP32 and web page hosted on SmarterASP.NET. Inside this system users can control Living room fan, Living room light, Bed rppm light and Bathroom light. This project gave me hand on experiance in IOT, Web development and Smart home designing. This project is more helpful as a future invesment.
